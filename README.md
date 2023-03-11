@@ -18,7 +18,7 @@ Install dependencies
 yarn
 ```
 
-# 💻 About the Challenge
+# About the Challenge
 
 ## This will be an application for managing tasks called todos. You will be allowed to create a user with name and username, as well as perform CRUD operations on todos:
 
