@@ -28,7 +28,7 @@ yarn
 - Mark a todo as done;
 - Delete a todo;
 
-Test Solution
+# Test Solution ⚙
 
 ```bash
 yarn test
