@@ -3,13 +3,13 @@
 Clone the project
 
 ```bash
-git clone https://github.com/vinisco/rentex.git
+git clone https://github.com/vinisco/rocketseat-challenge-01.git
 ```
 
 Go to the project directory
 
 ```bash
-cd rentex
+cd rocketseat-challenge-01
 ```
 
 Install dependencies
